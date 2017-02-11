@@ -1,8 +1,8 @@
 /*
- * Author: Carlos Alvarez
- * URL: http://alvarez.is
+ * Author: Kshitiz Saxena
+ * Phone: +91-9166332422
  *
- * Theme Name: Basic
+ * Theme Name: Silly Pixel
  * URL: http://blacktie.co
  * Version: 1.0
  */
@@ -12,7 +12,7 @@
 ################################################################# */
 
 /* Import fonts */
-@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700,900);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
@@ -20,16 +20,16 @@
 * { 
 	margin: 0;
 	padding: 0px;
-    font-family: 'Lato', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 } 
 body { 
 	background: #fff; 
+	font-family: 'Open Sans', sans-serif;
 	margin: 0; 
 	color: #5a5a5a;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', sans-serif;
 	font-weight: 300;
 }
 
@@ -37,7 +37,6 @@ h1, h2, h3, h4, h5, h6 {
 p { 
 	padding: 0; 
 	margin-bottom: 12px; 
-    font-family: 'Lato', sans-serif;
 	font-weight: 300;
 	font-size: 18px; 
 	line-height: 28px;
